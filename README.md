@@ -36,7 +36,6 @@ The data is citywide, without station identifiers. Some temperature–season bin
 
 - [`seoul_bike_v2.pbix`](seoul_bike_v2.pbix): two-page Power BI Desktop report.
 - [`Seoul_Bike_Demand_PowerBI_Demo.mp4`](video_review_frames/Seoul_Bike_Demand_PowerBI_Demo.mp4): short walkthrough video.
-- [`frame_001.jpg`](video_review_frames/frame_001.jpg): screenshot of the report's first page.
 - [`SeoulBikeData.csv`](SeoulBikeData.csv): source data from UCI.
 - [`executive_memo.md`](executive_memo.md): decision-oriented summary and limitations.
 
